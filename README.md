@@ -28,7 +28,7 @@ For the last one year, I have been part of a great learning curve wherein I have
 
 ```bash
     # clone this repo, removing the '-' to allow python imports:
-    git clone https://github.com/adityasolanki205/German-Credit.git
+    https://github.com/pratibha-singh531/Credit-Card-Risk-Analysis.git
 ```
 
 ## Installation
