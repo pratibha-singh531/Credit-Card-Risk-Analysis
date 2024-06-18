@@ -10,9 +10,6 @@ This is a **Supervised Learning Project on German Credit Data**. In this reposit
 6. **Conclusion**
 
 
-## Motivation
-For the last one year, I have been part of a great learning curve wherein I have upskilled myself to move into a Machine Learning and Cloud Computing. This project was practice project for all the learnings I have had. This is first of the many more to come. 
- 
 
 ## Libraries/framework used
 
@@ -114,11 +111,7 @@ To test the code we need to do the following:
     1. German Credit.ipynb
 
     2. German Credit.html
-    
-    3. German Credit-Tensorflow.ipynb
 
-    2. German Credit-Tensorflow.html
-    
     3. german.data    
     
     4. german.data-numeric
